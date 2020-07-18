@@ -1,5 +1,5 @@
 # Applied Data Science with Python
-Repository for tracking my progress with the Applied Data Science with Python specilization offered by University of Michigan via Coursera.\
+Repository for tracking my progress with the Applied Data Science with Python specialization offered by University of Michigan via Coursera.\
 The specilization ([link](https://www.coursera.org/specializations/data-science-python)) consists of 5 courses:
 
 1. Introduction to Data Science in Python ([link](https://www.coursera.org/learn/python-data-analysis?specialization=data-science-python)) - **finished July 17, 2020**
