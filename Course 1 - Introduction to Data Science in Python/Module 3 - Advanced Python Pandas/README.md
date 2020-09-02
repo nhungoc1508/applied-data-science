@@ -1,14 +1,16 @@
-### Module 1 - Python Fundamentals
+### Module 3 - Advanced Python Pandas
 
 #### Dates
-- Start: July 14, 2020
-- Finish: July 14, 2020
+- Start: ---
+- Finish: ---
 
 #### Key concepts
 
-1. Recognize the meaning of the term "Data Science"
-2. Develop basic Python programs using strings, functions, lists, dictionaries, date/time features, and files
-3. Use advanced Python features, including lambdas, list comprehensions and the numpy library
+1. Apply merge and join on DataFrames
+2. Employ slicing and indexing on DataFrames
+3. Analyze data with groupby and understand categorical variables
+4. Produce the entire process of data source to elucidation
+5. Examine the data by manipulating, cutting, and applying aggregate functions to DataFrames
 
 #### Assignment:
-None.
+See Assignment+3.ipynb
